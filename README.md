@@ -25,3 +25,13 @@ The output is a single dimensional flattened vector of shape 1 x 1470:
 ![Output vector](https://github.com/shivamsaboo17/CarND-Vehicle-Detection/raw/master/output_images/net_output.png)
 
 Using the output box coordinates and their confidence we draw the bounding box accordingly.
+
+
+## Dependencies:
+1) Tensorflow</br>
+2) Keras
+3) Matplotlib
+4) Tensorflow
+5) Theano
+6) Open CV
+7) Numpy
